@@ -54,7 +54,7 @@ You are required to model the price of cars with the available independent varia
 1. `doornumber` variable is not affacting the price much. There is no sugnificant difference between the categories in it.
 2. It seems aspiration with `turbo` have higher price range than the `std`(though it has some high values outside the whiskers.)
 <br>
-![image](https://user-images.githubusercontent.com/98708792/233800354-072904b3-75a8-4644-8c34-6f3a71c96e39.png)
+![image](https://user-images.githubusercontent.com/98708792/233800354-072904b3-75a8-4644-8c34-6f3a71c96e39.png)<br>
 #### Inference :
 
 1. Very few datapoints for `enginelocation` categories to make an inference.
@@ -62,7 +62,7 @@ You are required to model the price of cars with the available independent varia
 3. `mpfi` and `2bbl` are most common type of fuel systems. `mpfi` and `idi` having the highest price range. But there are few data for other categories to derive any meaningful inference
 4. A very significant difference in drivewheel category. Most high ranged cars seeme to prefer `rwd` drivewheel.
 <br>
-![image](https://user-images.githubusercontent.com/98708792/233800392-ee7ddc04-3bae-43e8-aaa4-5033691fb3df.png)
+![image](https://user-images.githubusercontent.com/98708792/233800392-ee7ddc04-3bae-43e8-aaa4-5033691fb3df.png)<br>
 #### Inference :
 
 1. `carwidth`, `carlength` and `curbweight` seems to have a poitive correlation with `price`. 
